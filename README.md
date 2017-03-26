@@ -1,0 +1,2 @@
+# VB-newfileindexer
+This is an application I made to automatically rename or categorize all files that are incoming to a specific directory.  There are two versions here (incomplete projects, just the form codes) - one that uses lists comparisons to enumerate differences amongst a directory at certain times, and another that uses a VB-native control to monitor the directory for changes.  Both realize the same utility, but in different ways.
